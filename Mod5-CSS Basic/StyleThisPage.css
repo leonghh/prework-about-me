@@ -1,0 +1,20 @@
+h1.center, p.center {text-align: center;
+}
+p.red {color: red;
+}
+p.blue {color: blue;
+}
+p.green {color: green;
+}
+p.orange {color: orange;
+}
+p.big {font-size: 24px;
+}
+p.tiny {font-size: 12px;
+}
+p.bold {font-weight: bold;
+}
+p.font {font-family: Arial, Helvetica, sans-serif;
+}
+img {border: 5px solid orange;
+}
